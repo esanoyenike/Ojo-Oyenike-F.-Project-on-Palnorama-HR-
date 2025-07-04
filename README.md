@@ -20,11 +20,14 @@ The analysis was done with the Power Querry
 1. To determine the number of employees paid less than the minimum wage ($90,000), a new columm was created named. 
 "Minimum Wage". "Yes" means those paid minimum wage and above, while "No" meand less than minimum wage.
 2. The employmee salary bands use in this analysis are: (10001-50000, 50001-80000, 80001-100000, and above 100000)
+3. A bonus rule was introduced. The bouns rate was multiplied by the salary to calculate the rate increament.
+4. The increament was added to the original salary to calculate the new salary for individual employee.
+
  #### Report
- a. The toal employees in the company was 946.
- b. The total number of employees not paid minimum wage was 654. The total number paid minimum wage and above were 292.
- c. The percentage female employees were 46.62%(441); Male was 49.15%(465); Neutal was 4.23%(40).
- d. Distribution of gender by location in the analysis showed that in Kaduna, male, female, and neutal were 182, 165, and 14 respectively; in Abuja, male, female,a nd nuetal were 159, 158, and 18 respectively; while in Lagos, there were 124, 118, and 8 accordingly.
+ - The total employees in the company was 946.
+ - The total number of employees not paid minimum wage was 654. The total number paid minimum wage and above were 292.
+ - The percentage female employees were 46.62%(441); Male was 49.15%(465); Neutal was 4.23%(40).
+ - Distribution of gender by location in the analysis showed that in Kaduna, male, female, and neutal were 182, 165, and 14 respectively; in Abuja, male, female,a nd nuetal were 159, 158, and 18 respectively; while in Lagos, there were 124, 118, and 8 accordingly.
 
 ### Inferences from the report
 After a careful study of the data and result of the analysis, the following inferences were drawn:
@@ -37,6 +40,10 @@ After a careful study of the data and result of the analysis, the following infe
 7. Product Management recieve the high total salary of $6,514,920, while Marketing depart received the least total salry of $4,990370.
 8. Across locations, the total salary received by female employees was $31,811,840, male employees received $34,777,130, while the neutal gender rceived $3,134,700.
 9. Male employees received higher salary than female and nuetal gender in Lagos, Kaduna, and Abuja.
+    #### After the bouns was included
+   1. The total Company wide salry increased to $70M.
+   2. The total salary paid to the training department after adding the bonus increased from $5.8m to $10.9m, which was the highest paid department.
+   3. the least paid department after adding t bouns was teh Accounting which decreased from $5.1m to $1.2m.
  
 ### Data Visualization
 [DSA Project CAse study 3 Palmora HR Visuals.pdf](https://github.com/user-attachments/files/21056064/DSA.Project.CAse.study.3.Palmora.HR.Visuals.pdf)
