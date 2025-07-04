@@ -15,7 +15,7 @@ Tranformation was done in Power BI. the following transfomation was carried out.
 1. All empty cells were removed, that the eployees that no longer work with Palmoria.
 2. Departments with "NULL" were removed.
 3. The employees with undisclosed gender was renamed "Neutal".
-4. ### Step 2
+ ### Step 2
 #### Analysis
 The analysis was done with the Power Querry
 1. To determine the number of employees paid less than the minimum wage ($90,000), a new columm was created named. 
@@ -23,7 +23,7 @@ The analysis was done with the Power Querry
 2. The employmee salary bands use in this analysis are: (10001-50000, 50001-80000, 80001-100000, and above 100000)
 3. A bonus rule was introduced. The bouns rate was multiplied by the salary to calculate the rate increament.
 4. The increament was added to the original salary to calculate the new salary for individual employee.
-5. ### Step 3
+ ### Step 3
 
  #### Report
  - The total employees in the company was 946.
@@ -50,6 +50,7 @@ After a careful study of the data and result of the analysis, the following infe
    ### Step 5
  
 ### Data Visualization
+The data visulas is given in the link below
 [DSA Project CAse study 3 Palmora HR Visuals.pdf](https://github.com/user-attachments/files/21056064/DSA.Project.CAse.study.3.Palmora.HR.Visuals.pdf)
 
 ### Step 6
